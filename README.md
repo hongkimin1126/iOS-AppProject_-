@@ -8,9 +8,8 @@
 - 카카오QR 코드를 직접 입력시 번호 없이 바로 송금링크 접근가능. -> 추후 업데이트예정.
 
 ## Concept
-![ex_screenshot]()
-![ex_screenshot]()
-![ex_screenshot]()
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/1.png?raw=true" width="320" height="568">
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/2.png?raw=true" width="320" height="568">
 - 지금줄게은 Swift를 사용하여 제작한 첫번째 팀프로젝트 Application 입니다.
 - 지금줄게를 통해 다음과 같은 내용을 스터디할 수 있었습니다.
   1. URLScheme
