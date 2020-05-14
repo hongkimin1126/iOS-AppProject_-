@@ -10,6 +10,7 @@
 ## Concept
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/1.png?raw=true)
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/2.png?raw=true)
+![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/3.png?raw=true)
 - 지금줄게은 Swift를 사용하여 제작한 첫번째 팀프로젝트 Application 입니다.
 - 지금줄게를 통해 다음과 같은 내용을 스터디할 수 있었습니다.
   1. URLScheme
