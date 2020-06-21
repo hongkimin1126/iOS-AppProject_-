@@ -7,6 +7,12 @@
 - 껄끄러운 전화번호 수집은 그만!! 사내 메신져나, 이메일로도 공유가능.
 - 카카오QR 코드를 직접 입력시 번호 없이 바로 송금링크 접근가능. -> 추후 업데이트예정.
 
+## Role
+- 분할결제 아이디어 및 전반적인 기획
+- UI.
+- ShareView
+- QR코드에서 URL링크추출후 카카오송금링크 전달
+
 ## Concept
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/1.png?raw=true)
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/지금줄게사진/2.png?raw=true)
